@@ -1,6 +1,9 @@
-# Drum-Kit
+# jQuery
 jQuery learning
 
 ## Includes
-- thing
-  - subthing
+- Examples of jQuery usage
+  - adding classes
+  - editing text
+  - editing html
+  - adding events
