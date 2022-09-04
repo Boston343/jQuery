@@ -7,3 +7,4 @@ jQuery learning
   - editing text
   - editing html
   - adding events
+  - effects
